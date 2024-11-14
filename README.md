@@ -8,7 +8,14 @@ system management in 2018
 Gradution:  grade : Good
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Bootstarp / json 
+Skills: 
+* VUE JS 
+* REACT 
+* JS 
+* HTML 
+* CSS 
+* Bootstarp 
+* json 
 
 - 🔭 I’m currently working on this page. 
 
